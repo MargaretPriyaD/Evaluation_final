@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() { HEAD
-    int num1, num2, num3 ;
+    int num1, num2;
     
     printf("Enter the first number: ");
     scanf("%d", &num1);
